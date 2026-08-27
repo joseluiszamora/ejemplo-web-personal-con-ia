@@ -1,0 +1,23 @@
+DÓNDE COLOCAR TUS IMÁGENES
+===========================
+
+1) FOTO DE PERFIL (sección "Sobre mí")
+   Ruta exacta: images/perfil/foto-perfil.jpg
+   Tamaño recomendado: mínimo 800x1000 px (relación 4:5), formato JPG o PNG.
+   Mientras no exista el archivo, la página muestra automáticamente un
+   recuadro con el texto "Coloca aquí tu foto de perfil".
+
+2) IMÁGENES DE PROYECTOS (sección "Proyectos")
+   Rutas exactas:
+     images/proyectos/proyecto-1.jpg
+     images/proyectos/proyecto-2.jpg
+     images/proyectos/proyecto-3.jpg
+   Tamaño recomendado: 1280x800 px (relación 16:10), formato JPG o PNG.
+   Puedes usar capturas de pantalla de cada proyecto o su logo/portada.
+   Si tienes más de 3 proyectos, duplica el bloque <article class="project-card">
+   en index.html y agrega proyecto-4.jpg, proyecto-5.jpg, etc.
+
+Si el nombre o la extensión del archivo no coinciden exactamente con lo
+indicado arriba, la imagen no se mostrará y en su lugar aparecerá el
+recuadro de reemplazo (esto es intencional, para que notes rápido que
+falta subir el archivo).
